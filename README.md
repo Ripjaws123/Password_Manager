@@ -2,6 +2,10 @@
 
 #### !Note: The Live Preview Page is not working so to View the site follow this steps
 
+#### !Note: Another ways
+
+      https://password-manager-three-steel.vercel.app/
+
 ## How to View the Project
 
 ### 1. Clone the Repository
